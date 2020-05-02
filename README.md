@@ -4,6 +4,6 @@ O dataset utilizado está disponível na pasta DataSet, onde aí encontramos o d
 
 
 ## Grupo
-João Aloísio -A77953 \n
-João de Macedo - A76268
-Nelson Gonçalves - A78173
+-João Aloísio -A77953
+-João de Macedo - A76268
+-Nelson Gonçalves - A78173
